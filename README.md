@@ -15,4 +15,5 @@ Put the output channel Id into the code ( where you would like the answers to be
 Install discord.js & other modules needed and then run forever start trivia.js
 
 Win trivia and enjoy!
+
 - Coded by Agent31#0001, Owner of Spy31 Trivia
