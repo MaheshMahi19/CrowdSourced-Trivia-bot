@@ -1,4 +1,20 @@
 # CrowdSourced-Trivia-bot
+
+Download the whole github repo
+Extract All to a desktop
+Follow all commands below, if you are planning on using this and turning it off when you're not using, you can just run it on your PC.
+IF YOU ARE PC HOPING TO USE FOR PERSONAL READ BELOW, IF NOT SKIP TO PART 2
+
+Part 1
+EXTRACT ALL TO DESKTOP
+JUST GO AHEAD AND RUN THE BOT.JS FILE 
+WIN SOME MULA
+
+
+
+
+
+PART 2
 Discord crowd sourced trivia bot, will fetch answers from trivia discords &amp; move them into a bot category under one embed.
 To setup:
 
